@@ -1,0 +1,21 @@
+{
+  "name": "Opal News",
+  "short_name": "News",
+  "start_url": "https://arthur-lenoble.github.io/Opal-news",
+  "display": "standalone",
+  "background_color": "#1e1e2f",
+  "theme_color": "#000000",
+  "description": "Opal News - accéder aux dernières informations sur les nouveautés de l'intelligence artificielle gratuitement",
+  "icons": [
+    {
+      "src": "Opal.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Opal.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
